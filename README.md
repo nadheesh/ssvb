@@ -12,7 +12,7 @@ Contains three experiment scripts
 
 Downloading the datasets
 
-You can use the original sources or the google drive links provided here with. Please notice that all the datasets included here does not belong to us. You may refer their original sources (using the links provided) before using them for other purposes. 
+You can use the original sources or the google drive links provided here with. Please notice that all the datasets included here **do not** belong to us. You may refer their original sources (using the links provided) before using them for other purposes. 
 
 ### Multiclass Classification
 
