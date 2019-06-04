@@ -12,7 +12,7 @@ Contains three experiment scripts
 
 Downloading the datasets
 
-You can use the original sources or the google drive links provided here with.
+You can use the original sources or the google drive links provided here with. Please notice that all the datasets included here does not belong to us. You may refer their original sources (using the links provided) before using them for other purposes. 
 
 ### Multiclass Classification
 
@@ -26,3 +26,5 @@ All in GDrive - [link](https://drive.google.com/open?id=10goEdGA3DJCnvx6II_yrwXX
 
 1. [Airline](https://kt.ijs.si/elena_ikonomovska/data.html) 
 2. [Poker](https://archive.ics.uci.edu/ml/datasets/Poker+Hand) 
+
+All in GDiver - [link](https://drive.google.com/open?id=1hQ5tWu5Aov0PaXMHAxlNl63NZSiAAfA7)
