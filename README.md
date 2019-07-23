@@ -2,10 +2,13 @@
 
 ## Experiments
 
-Contains three experiment scripts 
+Contains the experiment scripts from the paper "Streaming stochastic variational Bayes; An improved approach for Bayesian inference with data streams"
+preprint (version1) - https://peerj.com/manuscripts/38413/
+
+Three experiment scripts; 
 
 - SVB (Broderick et al., 2013) with black-box inference primitives vs SVI (Hoffman et al., 2013) as black-box inference
-- SSVB for classification (vs SVB, SVI and PVI)
+- SSVB for classification (vs SVB, SVI and PVI) 
 - SSVB for linear mixed-effects models (vs SVB, SVI and PVI)
 
 ## Datasets 
@@ -27,4 +30,4 @@ All in GDrive - [link](https://drive.google.com/open?id=10goEdGA3DJCnvx6II_yrwXX
 1. [Airline](https://kt.ijs.si/elena_ikonomovska/data.html) 
 2. [Poker](https://archive.ics.uci.edu/ml/datasets/Poker+Hand) 
 
-All in GDiver - [link](https://drive.google.com/open?id=1hQ5tWu5Aov0PaXMHAxlNl63NZSiAAfA7)
+All in GDrive - [link](https://drive.google.com/open?id=1hQ5tWu5Aov0PaXMHAxlNl63NZSiAAfA7)
