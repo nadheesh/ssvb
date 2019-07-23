@@ -3,6 +3,7 @@
 ## Experiments
 
 Contains the experiment scripts from the paper "Streaming stochastic variational Bayes; An improved approach for Bayesian inference with data streams"
+
 preprint (version1) - https://peerj.com/manuscripts/38413/
 
 Three experiment scripts; 
